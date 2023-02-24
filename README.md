@@ -8,7 +8,7 @@ DailyJokes-Chrome-Extension is a fun and lighthearted browser extension for Goog
     Simple and easy-to-use interface
     Lightweight and fast
 
-Installation
+## Installation
 
 To install DailyJokes-Chrome-Extension, follow these steps:
 
