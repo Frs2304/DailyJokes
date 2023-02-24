@@ -1,4 +1,4 @@
-# DailyJokes - Chrome Extension
+# Daily Jokes: A Fun Chrome Extension for Daily Humor
 
 DailyJokes-Chrome-Extension is a fun and lighthearted browser extension for Google Chrome that displays a new joke every day. If you're looking for a quick laugh or a bit of daily humor to brighten your day, this extension is the perfect solution.
 
