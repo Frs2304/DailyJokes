@@ -14,7 +14,7 @@ To install DailyJokes-Chrome-Extension, follow these steps:
 
     Open the Google Chrome browser on your computer.
     Navigate to the Chrome Web Store.
-    In the search bar, type "DailyJokes-Chrome-Extension" and press Enter.
+    In the search bar, type "DailyJokes" and press Enter.
     Click the "Add to Chrome" button.
     Wait for the extension to install, then click the "Launch" button to start using it.
 
