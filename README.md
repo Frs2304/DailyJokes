@@ -20,4 +20,6 @@ To install DailyJokes-Chrome-Extension, follow these steps:
 
 ## Usage
 
-    Once you've installed DailyJokes-Chrome-Extension, you can start using it right away. Simply click the extension icon in your browser's toolbar to display the daily joke.     You can also click the "Refresh" button to get a new joke if you don't like the current one.
+    Once you've installed DailyJokes-Chrome-Extension, you can start using it right away.
+    Simply click the extension icon in your browser's toolbar to display the daily joke.
+    You can also click the "Refresh" button to get a new joke if you don't like the current one.
